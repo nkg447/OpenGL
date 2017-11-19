@@ -210,7 +210,7 @@ int main(int argc, char * * argv) {
     glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
     glutInitWindowPosition(0, 0);
     glutInitWindowSize(500, 500);
-    glutCreateWindow("Nikunj Kumar Gupta - 500044730");
+    glutCreateWindow("OUTPUT");
     glClearColor(0.0, 0.0, 0.0, 0);
     glColor3f(1.0, 1.0, 1.0);
     gluOrtho2D(0, 250, 0, 250);
